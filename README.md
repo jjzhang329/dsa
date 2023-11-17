@@ -1,2 +1,2 @@
-# dsa
-This is to track my progress for doing DS&amp;A
+# DS&A
+This is to track my progress for practicing DS&A
