@@ -11,12 +11,11 @@
 # Input: n = 7, k = 2
 # Output: 7
 # Explanation: Factors list is [1, 7], the 2nd factor is 7.
-# Example 3:
 
+# Example 3:
 # Input: n = 4, k = 4
 # Output: -1
 # Explanation: Factors list is [1, 2, 4], there is only 3 factors. We should return -1.
-
 # 1492. The kth Factor of n https://leetcode.com/problems/the-kth-factor-of-n/description/
 class Solution:
     def kthFactor(self, n: int, k: int) -> int:
